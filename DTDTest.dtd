@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT Event (Title, Info, Location+, Date?, Time)>
+	<!ATTLIST Event type (class | salon) #REQUIRED>
+	<!ELEMENT Title (#PCDATA)>
+	<!ELEMENT Info (#PCDATA)>
+	
+	<!ATTLIST Location type (line1 | line2 | line3) #IMPLIED>
+	<!ELEMENT Date (#PCDATA)>
+	<!ELEMENT Time (#PCDATA)>
+	<!ELEMENT phone (#PCDATA)>
+	<!ATTLIST phone type (mobile | fax | work | home) #REQUIRED>
+
+
+
+

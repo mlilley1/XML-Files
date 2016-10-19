@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="XMLFile.css"?>
+<!DOCTYPE XMLFile SYSTEM "DTDTest.dtd">
+<Events>
+   
+   
+   <Event type="salon">
+      <Title>Ask the Librarian</Title>
+      
+
+      <Info>We are very lucky to have member Irene Kistler, a school librarian and educator, 
+      	visiting for our October Salon. She'll share how picture books are used in libraries and 
+      	classrooms. Find out what teachers are looking for in books, what kids need, and how you 
+      	can connect with librarians across our state. You won't want to miss this important conversation! 
+      	Bring your notebook and plenty of questions. </Info>
+      	<Location>Bonilla Science Hall Room 129<br />
+      	University of the Incarnate Word<br />
+      	4301 Broadway <br />
+      	San Antonio, TX</Location>
+      
+      <Date>Oct 29, 2016 </Date>
+      
+      <Time>10:00 AM - 12:00 PM</Time>
+   </Event>
+   
+<Event type="salon">
+      <Title>Words and Pictures: A Perfect Marriage</Title>
+      
+
+      <Info>Picture books are a perfect marriage of images and text. 
+      	But how do these collaborations work? How can writers support a visual narrative, 
+      	without micromanaging? How might an illustrator expand the world of a manuscript? How might 
+      	images and words play off each other, or create humor, or even opportunities for a child to think? 
+      	Whether you're writing, illustrating, or doing both, this conversation is for you! Bring your 
+      	notebook and, if you like, a published example of an interesting way images and text work together.</Info>
+      	<Location type="line1">Barnes and Noble</Location>
+		<Location type="line2">321 NW Loop 410</Location>
+		<Location type="line3">San Antonio, TX</Location>
+      
+      <Date>Aug 27, 2016 </Date>
+      
+      <Time>10:00 AM - 12:00 PM</Time>
+   </Event>
+   
+   <Event type="salon">
+      <Title>Scary Picture Books</Title>
+      
+
+      <Info>Join us for a Halloween discussion of scary picture books and books about fear. 
+      	What are the limits for picture books? How can illustrators and writers manage scary images and content? 
+      	Bring a favorite related picture book and a notebook for writing/drawing exercises! </Info>
+      	<Location type="line1">Barnes and Noble</Location> 
+		<Location type="line2">321 NW Loop 410</Location>
+		<Location type="line3">San Antonio, TX</Location>
+      
+      <Date>Oct 31, 2015 </Date>
+      
+      <Time>10:00 AM - 11:30 AM</Time>
+   </Event>
+
+   <Event type="class">
+      <Title>Picture Books 101</Title>
+      
+
+      <Info>Always wanted to write a picture book? Dive into the world of this flexible, 
+      	dynamic format. Discover how picture books differ from easy readers and how they are formatted. Picture books 
+      	include many genres and can engage both children and adults. We’ll look at sample picture books 
+      	and then turn to the work of attendees to apply topics we’ve discussed. This is the perfect workshop 
+      	for those just starting or hoping to build a solid foundation for their creative work. </Info>
+      	<Location type="line1">Bonilla Science Hall Room 129</Location>
+      	<Location type="line1">University of the Incarnate Word</Location>
+		<Location type="line2">4301 Broadway </Location>
+		<Location type="line3">San Antonio, TX</Location>
+      
+      <Date>Jun 25, 2016 </Date>
+      
+      <Time>9:00 AM - 5:00 PM</Time>
+   </Event>
+   
+<Event type="salon">
+      <Title>Paths to Publication</Title>
+      
+
+      <Info>We invite those of you with and without publishing experience to join us in discussing the tricky 
+      	questions we all face: 
+Do I need an agent? A creative lawyer? How and where do I submit work? How do I know when my work is ready? 
+How do I interpret rejections? Will this waiting EVER end? How do I transition into a new format, genre, or 
+market? Do publishing trends matter? 
+The Picture Book Salon is pleased to announce that two remote special guests will join the Picture Book Salon 
+discussion on Paths to Publications, including Minju Chang, an agent from BookStop Literary Agency, and Aimee 
+Bissonette, a picture book author (North Woods Girl and Miss Colfax’s Lighta) and lawyer who represents 
+children’s writers. So bring your publishing questions for these industry professionals!!!! 
+</Info>
+      	<Location type="line1">Barnes and Noble</Location>
+		<Location type="line2">321 NW Loop 410</Location>
+		<Location type="line3">San Antonio, TX</Location>
+      
+      <Date>Oct 31, 2015 </Date>
+      
+      <Time>10:00 AM - 12:00 PM</Time>
+   </Event>
+   
+<Event type="salon">
+      <Title>Fun Facts! Creative Nonfiction Picture Books</Title>
+      
+
+      <Info>Whether you're a novice or veteran picture book creator, join our conversation 
+      	about the current renaissance in creative nonfiction picture books! How do authors and 
+      	illustrators distill complex topics into accessible, irresistible books? We’ll explore 
+      	all manner of questions about the process and possibilities of nonfiction. You’re encouraged 
+      	to bring your favorite published informational picture book (maybe your own!) and share what 
+      	you think makes it sing and dance, or what you've learned from it. Whether your interest is 
+      	biography, nature poetry, STEM subjects, history or more — come with questions, ideas, or 
+      	just a notebook. We’ll do creative exercises, collect great titles and leave inspired to 
+      	create great books! See you there!</Info>
+      	<Location type="line1">Barnes and Noble</Location>
+		<Location type="line2">321 NW Loop 410</Location>
+		<Location type="line3">San Antonio, TX</Location>
+      
+      <Date>Jan 30, 2016 </Date>
+      
+      <Time>10:00 AM - 12:00 PM</Time>
+   </Event>
+   
+
+   
+<Event type="class">
+      <Title>Revision: Finding a Story’s Heart</Title>
+      
+
+      <Info>No matter how much skill a writer brings to manuscript, every new project
+begins as a mystery. Or, shall we be honest? A big mess. Agent Minju
+Chang and her clients, Megan Maynor and Charlotte Sullivan Wild, draw
+back the curtain to describe how they revise picture books — alone and
+together — to find the heart of their stories. This session will provide strategies 
+and guiding questions for navigating revision of fiction and informational picture books.
+</Info>
+      	<Location type="line1">The Loft Literary Center</Location>
+		<Location type="line2">1011 S Washington Ave</Location>
+		<Location type="line3">Minneapolis, MN</Location>
+      
+      <Date>May 07, 2016 </Date>
+      
+      <Time>1:00 PM - 2:10 PM</Time>
+   </Event>
+   
+
+</Events>
